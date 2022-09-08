@@ -1,2 +1,2 @@
 # GimSisFix
- A 'fix' for GimSis
+A 'fix' for GimSis
