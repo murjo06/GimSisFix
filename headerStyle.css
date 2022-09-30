@@ -1,0 +1,10 @@
+.gPad4TRL {
+    display: none;
+}
+#ctl00_ContentPlaceHolder1_cbxRazsirjenUrnik {
+    display: none;
+}
+.divDnevZapis, .divDnevZapis>span {
+    width: 100%;
+    height: 100%;
+}
